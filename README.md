@@ -1,4 +1,4 @@
-#TimeLine & Process#
+#TimeLine & Process
 Release of Mining Core : 15 Feb 2015
 Release of Task Generating Core: 15 March 2015
 Release of Testnet from simulated systems: 16 March 2015
